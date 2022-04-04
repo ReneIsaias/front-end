@@ -1,0 +1,226 @@
+[{
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Alfredo",
+	"last_name": "Pérez",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Área_asignada"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "First",
+	"last_name": "Last",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Área_asignada"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Alfredo",
+	"last_name": "Pérez",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Área_asignada"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Alfredo",
+	"last_name": "Pérez",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Área_asignada"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Alfredo",
+	"last_name": "Pérez",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Área_asignada"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Alfredo",
+	"last_name": "Pérez",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Área_asignada"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Alfredo",
+	"last_name": "Pérez",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Área_asignada"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "98692834",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Alfredo",
+	"last_name": "Pérez",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "Editor"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}, {
+	"id": "077964",
+	"imgProfile": "assets/images/logistify/img-perfil.png",
+	"user": "Alfredo",
+	"name": "Zoey",
+	"last_name": "101",
+	"phone": "5567891234",
+	"puesto": "Ejecutivo SAC",
+	"fecha_nacimiento": "13/04/88",
+	"mail": "Alfredo@logistify.com.mx",
+	"tipo_cuenta": {
+		"roles": [
+			"Administrador",
+			"Gerente"
+		],
+		"area": "comite"
+	},
+	"permisos": {
+		"0": "permiso 1",
+		"1": "permiso 2"
+	},
+	"clientes": {
+		"0": "cliente 1",
+		"1": "cliente 2"
+	}
+}]

@@ -1,0 +1,109 @@
+.logistify {
+	.gridjs {
+	}
+	&-table {
+		position: relative;
+		width: 100%;
+		.gridjs{
+			&-head{
+				padding: 27px 15px;
+				.gridjs-search {
+					float: initial;
+					text-align: center;
+				}
+			}
+			&-thead{
+				tr{
+					th.gridjs-th{
+						background-color: $moradoClaro;
+						border:none;
+					}
+				}
+			}
+			&-tbody{
+				tr{
+					td{
+						border:none;
+						text-overflow: ellipsis;
+						white-space: nowrap;
+						overflow: hidden;
+						&:nth-child(3),
+						&:nth-child(4){
+							max-width: 200px;
+						}
+						&:last-child{
+							text-overflow: initial;
+						}
+					}
+					&:nth-child(even){
+						td{
+							background-color: $grisTablas;
+						}
+					}
+				}
+			}
+			&-footer{
+				.gridjs-pagination {
+					.gridjs-pages {
+						float: initial;
+						text-align: center;
+					}
+				}
+			}
+		}
+		.img-perfil{
+			width: 50px;
+			margin: auto;
+			display: block;
+		}
+		&_limit {
+			margin: 10px auto;
+			width: auto;
+			display: flex;
+			align-items: center;
+			padding: 0 15px; 
+			.form-group {
+				height: auto;
+				width: auto;
+				display: inline-block;
+				vertical-align: middle;
+				margin: 0;
+				.form-control {
+					height: auto;
+					margin: 0;
+					&.nice-select {
+						width: auto;
+						span.current {
+							line-height: initial;
+						}
+					}
+				}
+			}
+		}
+	}
+	@media #{$md} {
+		&-table {
+			.gridjs{
+				&-head{
+					padding: 0 0 27px;
+					.gridjs-search {
+						float: left;
+					}
+				}
+				&-footer{
+					.gridjs-pagination {
+						.gridjs-pages {
+							float: right;
+						}
+					}
+				}
+			}
+			&_limit {
+				position: absolute;
+				bottom: 20px;
+				left: 30px;
+				line-height: 33px;
+			}
+		}
+	}
+}

@@ -1,0 +1,19 @@
+/* sass --watch assets/scss/style.scss:assets/css/main-logistify.css --style compressed  */
+
+/* General */
+@import	'general';
+/* Login */
+@import	'login/login';
+@import	'login/header';
+@import 'login/footer';
+@import 'login/restorePass';
+
+/* Perfil / Usuarios */
+@import 'perfil/perfil';
+
+/* General */
+@import	'general/logistify-Tablas';
+@import 'general/logistify-Modals';
+
+
+

@@ -1,0 +1,41 @@
+[{
+	"id": "1",
+	"area": "Administración",
+	"descripcion": "Rol para administrador",
+	"rol": "Administrador",
+	"responsable": "Admin",
+	"puesto": "Encargado ING",
+	"acceso_total": "Si"
+}, {
+	"id": "2",
+	"area": "SAC",
+	"descripcion": "Área de usuario de SAC",
+	"rol": "SAC",
+	"responsable": "Yess",
+	"puesto": "Encargado SAC",
+	"acceso_total": "No"
+}, {
+	"id": "3",
+	"area": "Ingeniería",
+	"descripcion": "Área de usuario de ingeniería",
+	"rol": "Ejecutivo",
+	"responsable": "Dani",
+	"puesto": "Asistente",
+	"acceso_total": "Si"
+}, {
+	"id": "4",
+	"area": "Clientes",
+	"descripcion": "Área de usuarios de operaciones",
+	"rol": "Admin. SAC",
+	"responsable": "Admin",
+	"puesto": "Clientes",
+	"acceso_total": "Si"
+}, {
+	"id": "5",
+	"area": "Administración",
+	"descripcion": "Área de usuarios de administración",
+	"rol": "Administración",
+	"responsable": "Krala",
+	"puesto": "Asesor",
+	"acceso_total": "No"
+}]

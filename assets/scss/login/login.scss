@@ -1,0 +1,81 @@
+.login{
+	width: 100vw;
+	height: 100vh;
+	background: url('../images/logistify/bg-logistify.svg') $morado;
+	display: block;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	align-items: center;
+	color: $blanco;
+	margin: 0;
+	&-logo{
+		color: $blanco;
+		@include calc-rem(24,'font-size');
+		@extend .text-black;
+		text-align: center;
+		h2{
+			font-size: inherit;
+		}
+		img{
+			display: block;
+			margin: 0 auto;
+		}
+	}
+	&-form{
+		margin-top: 10vh;
+		h3{
+			color: $blanco;
+			margin-bottom: 30px;
+			@extend .text-bold;
+			text-align: center;
+			@include calc-rem(20,'font-size');
+		}
+		.form-group{
+			position: relative;
+			.form-control{
+				color: $blanco;
+				&::placeholder{
+					color: $blanco;
+				}
+				&.is-invalid{
+					border-color: $rojo;
+					&::placeholder{
+						color: $rojo;
+					}
+				}
+			}
+			.icon{
+				position: absolute;
+				color: $blanco;
+				top: 50%;
+				transform: translate(0, -50%);
+				right: 10px;
+				&.is-invalid{
+					color: $rojo;
+				}
+			}
+		}
+		.btn-form{
+			margin-top: .56rem;
+			color: $morado;
+			@extend .text-bold;
+		}
+	}
+	&-legals{
+		width: 214px;
+		margin: calc(22 /16 )+rem auto 0;
+		font-size: 14px;
+		a{
+			@extend .text-bold;
+			text-decoration: underline;
+		}
+	}
+	&-footer{
+		a{
+			@extend .text-bold;
+			text-decoration: underline;
+		}
+	}
+
+}
